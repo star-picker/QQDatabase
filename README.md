@@ -1,21 +1,9 @@
 # qq
 qqsb、Tencentsb  
 8亿QQ绑定数据、腾讯泄露数据  
-![Image text](https://i.imgur.com/J8oFiP9.png)  
-
-![Image text](https://www.hzgzn.com/content/uploadfile/202101/224d1611802167.png)  
-
-![Image text](https://i.imgur.com/bvstdLp.jpg)  
-
-查询结果  
-![Image text](https://www.hzgzn.com/content/uploadfile/202101/1af11611802167.jpeg)  
 
 下载地址  
-[360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
-[百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
-[百度网盘(新)](https://pan.baidu.com/s/12FfwVdmzYNkZXTzooH_xQA)提取码：404v  
-[天翼网盘(解压密码：209754)](https://cloud.189.cn/t/ziieemMruaq2)  
-分享的国内网盘频繁被一些SB举报删除，数据共享人人有责  
+  
 种子 https://mega.nz/file/ct9iVLia#Zd48MrnZehsNyPd0FWX9FZ1TTc7Q9Ket-zJvboABwPw  
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
 magnet:?xt=urn:btih:c81e0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1  
@@ -53,5 +41,3 @@ https://www.hzgzn.com/zybk/10418.html
 https://www.vpsche.com/10919.html  
 
 自建TG社工库机器人[@shegongku58bot](https://t.me/shegongku58bot)
-分享失效联系QQ45215509免费拿（5.95G数据和7E人口数据）  
-[免责声明](https://github.com/qq8e/qq/blob/main/wz/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.txt)
